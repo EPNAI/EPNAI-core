@@ -1,7 +1,7 @@
 {
-  "name": "mcp-core",
+  "name": "EPNAI-core",
   "version": "0.1.0",
-  "description": "Core protocol logic for Machine-Centric Protocol (MCP) on Solana",
+  "description": "Core protocol logic for Machine-Centric Protocol (EPNAI) on Solana",
   "main": "clients/index.js",
   "scripts": {
     "build": "anchor build",
