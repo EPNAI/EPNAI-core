@@ -1,5 +1,5 @@
 {
-  "name": "EPNAI-core",
+  "name": "Liminai-core",
   "version": "0.1.0",
   "description": "Core protocol logic for Machine-Centric Protocol (EPNAI) on Solana",
   "main": "clients/index.js",
