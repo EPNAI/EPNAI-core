@@ -1,8 +1,7 @@
-# EPNAI Core
-![EPNAI](https://github.com/user-attachments/assets/5166f9de-a290-4be5-817e-c8394221c3f7)
+#Liminai Core
 
 ## Overview
-The core protocol logic for Machine-Centric Protocol (EPNAI) on Solana. This repository contains the fundamental Solana programs (smart contracts) that power the EPNAI ecosystem.
+The core protocol logic for Machine-Centric Protocol (Liminai) on Solana. This repository contains the fundamental Solana programs (smart contracts) that power the Liminai ecosystem.
 
 ## Components
 - **Registry Layer**: Agent, context, and permission management
@@ -29,7 +28,7 @@ npm test
 - `/.github` - CI/CD workflows for testing and deployment
 
 ## Links
-- [Documentation](https://github.com/EPNAI/EPNAI-docs)
-- [Examples](https://github.com/EPNAI/EPNAI-examples)
-- [Agents](https://github.com/EPNAI/EPNAI-agents)
-- [Server](https://github.com/EPNAI/EPNAI-server)
+- [Documentation](https://github.com/lim-in-ai/Liminai-docs)
+- [Examples](https://github.com/lim-in-ai/Liminai-examples)
+- [Agents](https://github.com/lim-in-ai/Liminai-agents)
+- [Server](https://github.com/lim-in-ai/Liminai-server)
